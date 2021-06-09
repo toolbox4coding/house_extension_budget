@@ -4,4 +4,5 @@ On the tech side it's using supervise learning (gradient boosting) and coded in 
 Data source area google spreadsheet where local / recent (off MLS) can be added and the selection of house to include be set
 1. House closing price (or raw land is the house get turned down) based local completed sale less than 1 year near the property from Redfin (and later Zillow) 1 off mamual
 2. Listing price for on the market properties
+
 Data output is simple email to me with a table of options
